@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Faith</h1>
 <h3 align="center">A tech career switcher passionate about promoting diversity within the industry</h3>
 
-- 🔭 I’m currently working on [CFG JavaScript Kickstarter](https://github.com/FaithThough/CFGJavaScriptKickstarter/tree/b6e10af4c2612be1e3a3f05f06a775a85fad06ce)
+- 🔭 I’m currently working on the [CFG JavaScript Kickstarter](https://github.com/FaithThough/CFGJavaScriptKickstarter/tree/b6e10af4c2612be1e3a3f05f06a775a85fad06ce) and the [Complete JavaScript course](https://github.com/FaithThough/The-Complete-JavaScript-Course/tree/e560d5aa54fbafb88250f39f3aefd0b417fd18e1)
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript and Python,**
-
-- 🔭 I’m currently working on [The complete JavaScript course](https://github.com/FaithThough/The-Complete-JavaScript-Course/tree/e560d5aa54fbafb88250f39f3aefd0b417fd18e1)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/faithphillips/](https://www.linkedin.com/in/faithphillips/)
 
