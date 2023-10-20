@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faiththough" alt="faiththough" /></a> </p>
 
-- 🔭 I’m currently working on the [CFG JavaScript Kickstarter](https://github.com/FaithThough/CFGJavaScriptKickstarter/tree/b6e10af4c2612be1e3a3f05f06a775a85fad06ce) and [The complete JavaScript course](https://github.com/FaithThough/The-Complete-JavaScript-Course/tree/e560d5aa54fbafb88250f39f3aefd0b417fd18e1)
+- 🔭 I’m currently working on the [CFG JavaScript Kickstarter](https://github.com/FaithThough/CFGJavaScriptKickstarter/tree/b6e10af4c2612be1e3a3f05f06a775a85fad06ce) and [the Complete JavaScript Course](https://github.com/FaithThough/The-Complete-JavaScript-Course/tree/e560d5aa54fbafb88250f39f3aefd0b417fd18e1)
 
 - 🌱 I’m currently learning **JavaScript, Python, HTML, CSS**
 
