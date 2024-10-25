@@ -1,7 +1,3 @@
-Here's an improved README for you, with a more polished layout, corrected links, and an expanded tech stack section:
-
----
-
 <h1 align="center">Hi 👋, I'm Faith</h1>
 <h3 align="center">Tech Career Switcher | Diversity Advocate in Tech</h3>
 
